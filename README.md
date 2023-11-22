@@ -1,3 +1,5 @@
 # app-dev
 **My favorite movie is titanic**
-*here are sime info about it*
+997 American romantic disaster
+cast:  Kate Winslet and Leonardo DiCaprio
+
