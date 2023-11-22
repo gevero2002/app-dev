@@ -1,2 +1,3 @@
 # app-dev
-My First repository 
+**My favorite movie is titanic**
+*here are sime info about it*
